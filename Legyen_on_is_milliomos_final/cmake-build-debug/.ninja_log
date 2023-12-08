@@ -1,0 +1,13 @@
+# ninja log v5
+3	789	6912518709000099	CMakeFiles/Legyen_on_is_milliomos_final.dir/main.c.obj	d497615d2433644d
+789	889	6912518709954845	Legyen_on_is_milliomos_final.exe	c8ab51e53662025e
+1	117	7237384117015383	build.ninja	7e661e46754ec5e7
+9	118	6912518702286714	CMakeFiles/Legyen_on_is_milliomos_final.dir/dicsosegtabla.c.obj	6dd12b083cb1a100
+13	115	6912518702256599	CMakeFiles/Legyen_on_is_milliomos_final.dir/kiir_dicsosegtabla.c.obj	1674d6a43b5760e
+6	320	7237384571881372	CMakeFiles/Legyen_on_is_milliomos_final.dir/dicsosegtabla.c.obj	ae193d489a761771
+36	326	7237384571945112	CMakeFiles/Legyen_on_is_milliomos_final.dir/kiir_dicsosegtabla.c.obj	b5462af710e37208
+22	2095	7237384589624743	CMakeFiles/Legyen_on_is_milliomos_final.dir/main.c.obj	9508877fa613fc88
+2095	2456	7237384593068378	Legyen_on_is_milliomos_final.exe	c8ab51e53662025e
+5	2265	7237388354383239	CMakeFiles/Legyen_on_is_milliomos_final.dir/main.c.obj	9508877fa613fc88
+5	1658	7237388600308281	CMakeFiles/Legyen_on_is_milliomos_final.dir/main.c.obj	9508877fa613fc88
+4	188	7237395277256249	Legyen_on_is_milliomos_final.exe	c8ab51e53662025e

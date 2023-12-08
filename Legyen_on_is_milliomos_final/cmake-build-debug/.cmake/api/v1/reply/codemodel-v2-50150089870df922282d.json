@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Legyen_on_is_milliomos_final",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Legyen_on_is_milliomos_final::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Legyen_on_is_milliomos_final-Debug-777978c6c9e4ff99e66a.json",
+					"name" : "Legyen_on_is_milliomos_final",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/sajbe/Desktop/C_nagyhazi_final_2022_osz/Legyen_on_is_milliomos_final/cmake-build-debug",
+		"source" : "C:/Users/sajbe/Desktop/C_nagyhazi_final_2022_osz/Legyen_on_is_milliomos_final"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

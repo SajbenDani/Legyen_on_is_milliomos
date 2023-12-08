@@ -1,0 +1,3 @@
+C:/Users/sajbe/Desktop/C_nagyhazi_final_2022_osz/Legyen_on_is_milliomos_final/cmake-build-debug/CMakeFiles/Legyen_on_is_milliomos_final.dir
+C:/Users/sajbe/Desktop/C_nagyhazi_final_2022_osz/Legyen_on_is_milliomos_final/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sajbe/Desktop/C_nagyhazi_final_2022_osz/Legyen_on_is_milliomos_final/cmake-build-debug/CMakeFiles/rebuild_cache.dir
